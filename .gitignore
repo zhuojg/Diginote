@@ -1,0 +1,6 @@
+sample_data/
+test_data/
+.idea/
+__pycache__/
+result.png
+result_1.png
